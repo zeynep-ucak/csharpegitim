@@ -1,0 +1,14 @@
+/Users/zeynepucak/Desktop/c#egitimkampi/bin/Debug/net8.0/c#egitimkampi
+/Users/zeynepucak/Desktop/c#egitimkampi/bin/Debug/net8.0/c#egitimkampi.deps.json
+/Users/zeynepucak/Desktop/c#egitimkampi/bin/Debug/net8.0/c#egitimkampi.runtimeconfig.json
+/Users/zeynepucak/Desktop/c#egitimkampi/bin/Debug/net8.0/c#egitimkampi.dll
+/Users/zeynepucak/Desktop/c#egitimkampi/bin/Debug/net8.0/c#egitimkampi.pdb
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.AssemblyInfoInputs.cache
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.AssemblyInfo.cs
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.csproj.CoreCompileInputs.cache
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.dll
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/refint/c#egitimkampi.dll
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.pdb
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/c#egitimkampi.genruntimeconfig.cache
+/Users/zeynepucak/Desktop/c#egitimkampi/obj/Debug/net8.0/ref/c#egitimkampi.dll
