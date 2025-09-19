@@ -1,0 +1,4 @@
+/Users/zeynepucak/Desktop/c#Ders2/obj/Debug/net8.0/c#Ders2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepucak/Desktop/c#Ders2/obj/Debug/net8.0/c#Ders2.AssemblyInfoInputs.cache
+/Users/zeynepucak/Desktop/c#Ders2/obj/Debug/net8.0/c#Ders2.AssemblyInfo.cs
+/Users/zeynepucak/Desktop/c#Ders2/obj/Debug/net8.0/c#Ders2.csproj.CoreCompileInputs.cache
