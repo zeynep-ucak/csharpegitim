@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zeynepucak/Desktop/c#egitimkampi/c#egitimkampi.csproj": {}
+    "/Users/zeynepucak/Documents/GitHub/csharpegitim/c#ders1/c#egitimkampi.csproj": {}
   },
   "projects": {
-    "/Users/zeynepucak/Desktop/c#egitimkampi/c#egitimkampi.csproj": {
+    "/Users/zeynepucak/Documents/GitHub/csharpegitim/c#ders1/c#egitimkampi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zeynepucak/Desktop/c#egitimkampi/c#egitimkampi.csproj",
+        "projectUniqueName": "/Users/zeynepucak/Documents/GitHub/csharpegitim/c#ders1/c#egitimkampi.csproj",
         "projectName": "c#egitimkampi",
-        "projectPath": "/Users/zeynepucak/Desktop/c#egitimkampi/c#egitimkampi.csproj",
+        "projectPath": "/Users/zeynepucak/Documents/GitHub/csharpegitim/c#ders1/c#egitimkampi.csproj",
         "packagesPath": "/Users/zeynepucak/.nuget/packages/",
-        "outputPath": "/Users/zeynepucak/Desktop/c#egitimkampi/obj/",
+        "outputPath": "/Users/zeynepucak/Documents/GitHub/csharpegitim/c#ders1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zeynepucak/.nuget/NuGet/NuGet.Config"

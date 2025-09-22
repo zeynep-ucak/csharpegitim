@@ -1,0 +1,14 @@
+/Users/zeynepucak/Desktop/c#ders4/bin/Debug/net8.0/c#ders4
+/Users/zeynepucak/Desktop/c#ders4/bin/Debug/net8.0/c#ders4.deps.json
+/Users/zeynepucak/Desktop/c#ders4/bin/Debug/net8.0/c#ders4.runtimeconfig.json
+/Users/zeynepucak/Desktop/c#ders4/bin/Debug/net8.0/c#ders4.dll
+/Users/zeynepucak/Desktop/c#ders4/bin/Debug/net8.0/c#ders4.pdb
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.AssemblyInfoInputs.cache
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.AssemblyInfo.cs
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.csproj.CoreCompileInputs.cache
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.dll
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/refint/c#ders4.dll
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.pdb
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/c#ders4.genruntimeconfig.cache
+/Users/zeynepucak/Desktop/c#ders4/obj/Debug/net8.0/ref/c#ders4.dll

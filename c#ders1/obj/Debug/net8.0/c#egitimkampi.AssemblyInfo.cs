@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c#egitimkampi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e876a6f6be9593fb9a2bc51b990fd0f08e3e5460")]
 [assembly: System.Reflection.AssemblyProductAttribute("c#egitimkampi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c#egitimkampi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

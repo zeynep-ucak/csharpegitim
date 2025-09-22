@@ -1,0 +1,14 @@
+/Users/zeynepucak/Desktop/c#ders3/bin/Debug/net8.0/c#ders3
+/Users/zeynepucak/Desktop/c#ders3/bin/Debug/net8.0/c#ders3.deps.json
+/Users/zeynepucak/Desktop/c#ders3/bin/Debug/net8.0/c#ders3.runtimeconfig.json
+/Users/zeynepucak/Desktop/c#ders3/bin/Debug/net8.0/c#ders3.dll
+/Users/zeynepucak/Desktop/c#ders3/bin/Debug/net8.0/c#ders3.pdb
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.AssemblyInfoInputs.cache
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.AssemblyInfo.cs
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.csproj.CoreCompileInputs.cache
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.dll
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/refint/c#ders3.dll
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.pdb
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/c#ders3.genruntimeconfig.cache
+/Users/zeynepucak/Desktop/c#ders3/obj/Debug/net8.0/ref/c#ders3.dll
