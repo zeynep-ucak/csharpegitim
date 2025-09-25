@@ -1,6 +1,6 @@
-<img width="858" height="434" alt="389470222-e02b7915-8601-4bb3-8309-4802dfd68c45" src="https://github.com/user-attachments/assets/e0ec7e14-9465-426f-992b-7f2ca79229e3" />🚀  C# Eğitim Kampı Projeleri
-Bu repo, Murat Yücedağ’ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ders bazlı uygulamaları içermektedir. Her ders klasörü, o derste öğrendiğim kavramları ve yazdığım uygulamaları göstermektedir.
+🚀  C# Eğitim Kampı Projeleri  🚀
 
+Bu repo, Murat Yücedağ’ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ders bazlı uygulamaları içermektedir. Her ders klasörü, o derste öğrendiğim kavramları ve yazdığım uygulamaları göstermektedir.
 
 📘 Ders 01: Temel Değişkenler ve Menü Fiyat Hesaplama
 
@@ -34,7 +34,7 @@ Saat başı iki ile çarpılarak çoğalan bakteri sayısını hesapladım.
 Basamakları toplama, çift sayı toplama gibi uygulamalar yaptım. 
 Döngüleri kullanarak mantıksal akışı ve tekrar eden işlemleri uyguladım. 
 
-🎓 Ders 07-08: Foreach Döngüsü ve Metotlar
+🧭 Ders 07-08: Foreach Döngüsü ve Metotlar
 
 foreach ile dizi ve liste elemanlarını gezdim. 
 Sınıf öğrenci sayısı, isimleri ve sınav ortalamalarını tutan uygulamalar geliştirdim. 
@@ -45,11 +45,11 @@ Geriye değer döndürmeyen ve döndüren metotları öğrendim.
 
 Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırmayı deneyimledim. Bu projeyle birlikte veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edindim. 
 
-✨ Ders 10: Menü Sipariş İşlem Paneli
+🍽️ Ders 10: Menü Sipariş İşlem Paneli
 
 Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı ile etkileşim sağladım. SQL bağlantısı kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini uyguladım. Proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini pekiştirmiş oldum. Bu kapsamda, ürün bilgilerini düzenleyerek daha dinamik bir yapı elde etmeyi öğrendim.
 
-💻  EfTravel İstatistik Paneli
+🌏  EfTravel İstatistik Paneli
 
 <img width="858" height="434" alt="389470222-e02b7915-8601-4bb3-8309-4802dfd68c45" src="https://github.com/user-attachments/assets/dfbfff7d-5101-46ca-85f9-6f8a8ab5ca18" />
 
